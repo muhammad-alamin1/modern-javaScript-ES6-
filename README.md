@@ -8,3 +8,4 @@
 * class 
 * inheritance
 * destructuring
+* map & filter function
