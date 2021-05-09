@@ -7,6 +7,7 @@ numbers.map((num, index, array) => {
     // console.log(num)
 })
 console.log(output);
+console.log(numbers);
 
 
 const bigger = numbers.filter(x => x < 5);

@@ -9,3 +9,4 @@
 * inheritance
 * destructuring
 * map & filter function
+* object Property
